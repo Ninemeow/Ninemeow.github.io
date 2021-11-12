@@ -1,8 +1,8 @@
 ---
 layout: "about"
 title: "About"
-date: 2016-04-21 04:48:33
-description: "那些年吹过的牛逼，还有很多没有实现 ......"
+date: 2016-09-21
+description: "设计成就梦想，细节决定品质。"
 header-img: "img/scenery/about_bg.jpg"
 ---
 
@@ -47,29 +47,29 @@ header-img: "img/scenery/about_bg.jpg"
 >  On the way to meet myself …
 
 
-## Follow With Interest Blogs
+## Follow me
 
-> Neo Peng：https://zhile.io
+> Me：http://skillcat.cn
 >
-> 李卫民：https://www.funtl.com/zh/guide
+> My Blog：http://blog.skillcat.cn
 >
-> duanxz：https://www.cnblogs.com/duanxz/tag
+> Github io：https://ninemeow.github.io/
 >
-> Java1234_小锋：http://blog.java1234.com/index.html
+> Github：https://github.com/Ninemeow
 >
-> Deserts：https://deserts.io
+> Gitee：https://gitee.com/Ninemeow
 >
-> Super Snail：https://www.dusign.net
+> segmentfault：https://segmentfault.com/u/ninemeow
 >
-> KIERAN'S BLOG：https://go.kieran.top
+> 掘金：https://juejin.cn/user/131597126868488
 >
-> Mr.Seven：https://itimetraveler.github.io
+> 开源中国：https://my.oschina.net/Ninemeow
 
 ## Contact me
 
-> Email：601521821@qq.com
+> Email：skillcat@126.com
 
 ## Treat me to coffee
 >  If you feel that what I have written is of some value to you, I am glad that you are willing to invite me to drink coffee...
 
-<img src="/img/scenery/treat_me_to_coffee.png" width="350" alt="treat_me_to_coffee.png"></img>
+<img src="/img/scenery/treat_me_to_coffee.jpg" width="350" alt="treat_me_to_coffee.png"></img>
