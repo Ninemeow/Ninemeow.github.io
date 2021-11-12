@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Kitten's Blog 
+title: Kitten's Blog
 subtitle: 设计成就梦想，细节决定品质
 author: White.cat
 timezone:
@@ -53,7 +53,7 @@ favicon: img/avatar/favicon.ico
 
 # Signature Setup
 signature: true # show signature
-signature-img: img/signature/signature-white
+signature-img: img/signature/signature-white.png
 
 
 # Wave settings
@@ -320,7 +320,7 @@ themecolor:
 mouseclick:
   enable: true
   content:
-    - 富强 
+    - 富强
     - 民主
     - 文明
     - 和谐
@@ -387,7 +387,7 @@ theme: livemylife
 ## Docs:https://gitter.im/?utm_source=left-menu-logo
 ##
 gitter:
-  room: your-community/your-room
+  room: Ninemeow/community
 
 
 # Deployment
